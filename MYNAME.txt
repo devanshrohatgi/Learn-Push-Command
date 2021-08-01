@@ -1,1 +1,3 @@
-ogneirgkea rkg aek vkae fkaeikgbaebg
+
+this is an example  to  createn  the merger   conflict   /./
+one merge conflict also happen  weh  you clone the repositry  in your local sysytem  and then     you  did not commit nahi krte hoo
